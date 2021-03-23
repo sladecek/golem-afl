@@ -1,0 +1,3 @@
+https://github.com/wolframroesler/afl-demo
+
+AFL_HARDEN=1 ../AFL/afl-g++  main.cpp 

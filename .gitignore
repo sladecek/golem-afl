@@ -1,0 +1,11 @@
+*~
+build/
+*.log
+/_out_log/
+/_out_out/
+/_out_step/
+/_work/
+/_out_results/
+*.gvmi
+/__pycache__/
+/lib/__pycache__/

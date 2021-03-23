@@ -1,0 +1,10 @@
+
+https://github.com/fuzzstati0n/fuzzgoat
+
+CC=../AFL/afl-gcc make
+
+
+
+https://github.com/wolframroesler/afl-demo
+
+AFL_HARDEN=1 ../AFL/afl-g++  main.cpp 
