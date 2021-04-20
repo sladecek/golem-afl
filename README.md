@@ -3,7 +3,7 @@
 *golem-afl* is an experimental test-fuzzing framework for https://www.golem.network/
 
 
-## Running a Demo on yagna/goth Testnet
+## Running the demo
 
 The minimal way to demonstrate the application is:
 
@@ -52,10 +52,12 @@ $ YAGNA_APPKEY=ffe812d99751432b926318d9015e0716 \
    utility is executed to visualize the results of the cycle. 
 
 
+## Hackathon links
+
 The project has started as a part of [Grants Round 9 Hackathon
 Golem Mainnet Hackathon @ GR9 - Open Track]: https://gitcoin.co/issue/golemfactory/hackathons/11/100025157]
 
-Video:
+Video:  https://youtu.be/zSKAutlpgxg
 
-Presentation: 
+Presentation:  https://github.com/sladecek/golem-afl/blob/main/presentation.pdf
 
